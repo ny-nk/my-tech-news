@@ -1,5 +1,7 @@
 {
-  "builtAt": "2026-09-02T23:51:50.528Z",
+  "builtAt": "2026-09-03T23:49:48.241Z",
   "sourcesTotal": 16,
-  "sourcesFailed": []
+  "sourcesFailed": [
+    "VentureBeat AI"
+  ]
 }
